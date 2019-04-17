@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Guess the Number</string>
+    <string name="guessQues">Can you guess the number ?</string>
+    <string name="title">Let\'s Start</string>
+    <string name="numHint">Enter the Number</string>
+    <string name="button">Is this the Value?</string>
+    <string name="below50">50</string>
+    <string name="below10">10</string>
+    <string name="below20">20</string>
+    <string name="below30">30</string>
+    <string name="below40">40</string>
+    <string name="selectRange">Select Playing Range</string>
+    <string name="gameOver">Game Over !!!!</string>
+    <string name="retry">Retry</string>
+    <string name="score">Score:</string>
+    <string name="highScore">HighScore:</string>
+    <string name="exit">Exit Game</string>
+</resources>
